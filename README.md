@@ -7,6 +7,7 @@ This Python script facilitates searching for and downloading media content based
 
 ## Features
 
+- **Compatibility**: Tested on **Windows 11 Pro 23H2 (Build 22631.3374)** and **Ubuntu 23.10 (Mantic Minotaur)** on 10th April, 2024.
 - **Search by Title and Channel**: Enables users to find media content using specific titles and channels.
 - **Quality Selection**: Users can select the media quality (Standard, Low, HD) before downloading.
 - **Human-readable File Sizes**: Displays file sizes in an easy-to-understand format.
