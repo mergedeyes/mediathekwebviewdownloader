@@ -15,7 +15,7 @@ This Python script facilitates searching for and downloading media content based
 
 ## Requirements
 
-To run this script, you need Python 3.6 or higher and the following packages:
+To run this script, you need Python 3.11.6 or higher and the following packages:
 - `requests`
 - `prompt_toolkit`
 
