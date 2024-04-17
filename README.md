@@ -61,3 +61,9 @@ To stop the script during execution, press `Ctrl+C`. The script will exit gracef
 ## Troubleshooting
 
 Ensure all [requirements](#requirements) are properly installed if you encounter any errors related to missing modules. Check your internet connection and the availability of `mediathekviewweb.de` if you face other issues.
+
+## Author
+
+- Jan Motulla - DE
+- [GitHub](https://github.com/mergedeyes/)
+- Contact: github@mergedcloud.de
