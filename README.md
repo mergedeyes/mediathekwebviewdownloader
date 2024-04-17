@@ -1,8 +1,8 @@
 # MediathekViewWeb-Downloader
 
 ## Disclaimer
-This script has been coded with the help of ChatGPT 4.
-This repository and its contents are not officially associated with, endorsed by, or sponsored by the original creators or maintainers of `mediathekviewweb` or any of its projects. The use of the `mediathekviewweb` name, API, or any related materials in this project is for descriptive purposes only and does not imply any official affiliation or endorsement.
+- This script has been coded with the help of ChatGPT 4.
+- This repository and its contents are not officially associated with, endorsed by, or sponsored by the original creators or maintainers of `mediathekviewweb` or any of its projects. The use of the `mediathekviewweb` name, API, or any related materials in this project is for descriptive purposes only and does not imply any official affiliation or endorsement.
 
 This Python script facilitates searching for and downloading media content based on title and channel from `mediathekviewweb.de`. It supports different qualities for download and provides an intuitive command-line interface for interaction.
 
